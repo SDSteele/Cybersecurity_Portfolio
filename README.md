@@ -8,6 +8,8 @@ Welcome to my cybersecurity portfolio. I’m passionate about ethical hacking, s
 
 I'm a self-driven cybersecurity enthusiast with a background in IT, server management, and scripting. I enjoy solving puzzles, analyzing vulnerabilities, and building secure systems using tools like Nmap, Wireshark, Burp Suite, and Python. I am continuously learning through platforms like TryHackMe, IBM Cybersecurity courses, and hands-on Linux scripting.
 
+If you're looking for my lab work, please visit [here](https://github.com/SDSteele/Cyber_Labs).
+
 ---
 
 ## 🛠️ Tools & Skills
