@@ -20,7 +20,11 @@ If you're looking for my lab work, please visit [here](https://github.com/SDStee
 - **Concepts:** Reconnaissance, Vulnerability Scanning, Linux Hardening, SOC workflows, Report Writing
 
 ---
+## 📜 Cybersecurity Reports
+ 1. Example reports linked [here.](https://github.com/SDSteele/Cybersecurity_Portfolio/tree/main/Cybersecurity_Reports)
 
+
+<!-- 
 ## 🧪 Projects
  
 ### 1. 🔎 Python Port Scanner (In-Progress)
@@ -58,7 +62,7 @@ Simulated logs, alert workflow, and incident response playbook for a mock compan
 [🔗 GitHub Repo](https://github.com/SDSteele/soc-playbook)
 
 ---
-
+-->
 ## 📜 Certifications
 [Cert Link](https://github.com/SDSteele/Classwork_and_Certifications_Portfolio)
 
