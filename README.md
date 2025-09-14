@@ -20,9 +20,10 @@ If you're looking for my lab work, please visit [here](https://github.com/SDStee
 - **Concepts:** Reconnaissance, Vulnerability Scanning, Linux Hardening, SOC workflows, Report Writing
 
 ---
-## 📜 Cybersecurity Reports
- 1. Example reports linked [here.](https://github.com/SDSteele/Cybersecurity_Portfolio/tree/main/Cybersecurity_Reports)
+## 📋 Cybersecurity Reports
+ Example reports linked [here.](https://github.com/SDSteele/Cybersecurity_Portfolio/tree/main/Cybersecurity_Reports)
 
+---
 
 <!-- 
 ## 🧪 Projects
